@@ -58,7 +58,7 @@ names = ["_base"]
 # "Hagezi Spam TLDs Combined"        = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-combined-folder.json"
 "Hagezi Spam TLDs Light"             = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-light-folder.json"
 # "Hagezi Spam TLDs"                 = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-folder.json"
-"Hagezi ALLOW Ultimate Known Issues" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/ultimate-known_issues-allow-folder.json"
+"Hagezi ALLOW Ult Known Issues"      = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/ultimate-known_issues-allow-folder.json"
 
 
 
@@ -94,6 +94,6 @@ _base   = [
   # "Hagezi Spam TLDs combined",
   "Hagezi Spam TLDs Light",
   # "Hagezi Spam TLDs",
-  "Hagezi ALLOW Ultimate Known Issues",
+  "Hagezi ALLOW Ult Known Issues",
 ]
 
