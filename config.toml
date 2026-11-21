@@ -35,30 +35,30 @@ names = ["_base"]
 # =============================================================================
 
 [folders]
-# "Apple private relay allow"      = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/apple-private-relay-allow-folder.json"
-"Badware hoster"                   = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/badware-hoster-folder.json"
-# "Meta tracker allow"             = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/meta-tracker-allow-folder.json"
-# "Microsoft allow"                = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/microsoft-allow-folder.json"
-"Native tracker amazon"            = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-amazon-folder.json"
-"Native tracker apple"             = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-apple-folder.json"
-"Native tracker huawei"            = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-huawei-folder.json"
-"Native tracker lgwebos"           = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-lgwebos-folder.json"
-"Native tracker microsoft"         = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-microsoft-folder.json"
-"Native tracker oppo realme"       = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-oppo-realme-folder.json"
-"Native tracker roku"              = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-roku-folder.json"
-"Native tracker samsung"           = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-samsung-folder.json"
-"Native tracker tiktok aggressive" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-tiktok-aggressive-folder.json"
-"Native tracker tiktok"            = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-tiktok-folder.json"
-"Native tracker vivo"              = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-vivo-folder.json"
-"Native tracker xiaomi"            = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-xiaomi-folder.json"
-# "Nosafesearch"                   = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/nosafesearch-folder.json"
-# "Referral allow"                 = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/referral-allow-folder.json"
-"Spam idns"                        = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-idns-folder.json"
-# "Spam tlds allow"                = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-allow-folder.json"
-# "Spam tlds combined"             = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-combined-folder.json"
-"Spam tlds light"                  = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-light-folder.json"
-# "Spam tlds"                      = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-folder.json"
-"Ultimate known issues allow"      = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/ultimate-known_issues-allow-folder.json"
+# "Hagezi ALLOW Apple Private Relay" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/apple-private-relay-allow-folder.json"
+"Hagezi Badware Hoster"              = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/badware-hoster-folder.json"
+# "Hagezi ALLOW Meta Tracker"        = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/meta-tracker-allow-folder.json"
+# "Hagezi ALLOW Microsoft"           = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/microsoft-allow-folder.json"
+"Hagezi Tracker Amazon"              = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-amazon-folder.json"
+"Hagezi Tracker Apple"               = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-apple-folder.json"
+"Hagezi Tracker Huawei"              = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-huawei-folder.json"
+"Hagezi Tracker LGWebOS"             = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-lgwebos-folder.json"
+"Hagezi Tracker Microsoft"           = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-microsoft-folder.json"
+"Hagezi Tracker Oppo Realme"         = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-oppo-realme-folder.json"
+"Hagezi Tracker Roku"                = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-roku-folder.json"
+"Hagezi Tracker Samsung"             = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-samsung-folder.json"
+"Hagezi Tracker Tiktok Aggressive"   = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-tiktok-aggressive-folder.json"
+"Hagezi Tracker Tiktok"              = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-tiktok-folder.json"
+"Hagezi Tracker Vivo"                = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-vivo-folder.json"
+"Hagezi Tracker Xiaomi"              = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-xiaomi-folder.json"
+# "Hagezi NoSafeSearch"              = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/nosafesearch-folder.json"
+# "Hagezi ALLOW Referral"            = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/referral-allow-folder.json"
+"Hagezi Spam IDNs"                   = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-idns-folder.json"
+# "Hageiz ALLOW Spam TLDs"           = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-allow-folder.json"
+# "Hagezi Spam TLDs Combined"        = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-combined-folder.json"
+"Hagezi Spam TLDs Light"             = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-light-folder.json"
+# "Hagezi Spam TLDs"                 = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-folder.json"
+"Hagezi ALLOW Ultimate Known Issues" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/ultimate-known_issues-allow-folder.json"
 
 
 
@@ -71,29 +71,29 @@ names = ["_base"]
 
 [profile_folders]
 _base   = [
-# "Apple private relay allow",
-"Badware hoster",
-  # "Meta tracker allow",
-  # "Microsoft allow",
-  "Native tracker amazon",
-  "Native tracker apple",
-  "Native tracker huawei",
-  "Native tracker lgwebos",
-  "Native tracker microsoft",
-  "Native tracker oppo realme",
-  "Native tracker roku",
-  "Native tracker samsung",
-  "Native tracker tiktok aggressive",
-  "Native tracker tiktok",
-  "Native tracker vivo",
-  "Native tracker xiaomi",
-  # "Nosafesearch",
-  # "Referral allow",
-  "Spam idns",
-  # "Spam tlds allow",
-  # "Spam tlds combined",
-  "Spam tlds light",
-  # "Spam tlds",
-  "Ultimate known issues allow",
+  # "Hagezi ALLOW Apple Private Relay",
+  "Hagezi Badware Hoster",
+  # "Hagezi ALLOW Meta Tracker",
+  # "Hagezi ALLOW Microsoft",
+  "Hagezi Tracker Amazon",
+  "Hagezi Tracker Apple",
+  "Hagezi Tracker Huawei",
+  "Hagezi Tracker LGWebOS",
+  "Hagezi Tracker Microsoft",
+  "Hagezi Tracker Oppo Realme",
+  "Hagezi Tracker Roku",
+  "Hagezi Tracker Samsung",
+  "Hagezi Tracker Tiktok Aggressive",
+  "Hagezi Tracker Tiktok",
+  "Hagezi Tracker Vivo",
+  "Hagezi Tracker Xiaomi",
+  # "Hagezi Nosafesearch",
+  # "Hagezi Referral allow",
+  "Hagezi Spam IDNs",
+  # "Hagezi ALLOW Spam TLDs",
+  # "Hagezi Spam TLDs combined",
+  "Hagezi Spam TLDs Light",
+  # "Hagezi Spam TLDs",
+  "Hagezi ALLOW Ultimate Known Issues",
 ]
 
